@@ -4,9 +4,8 @@
 
 ### Editor navigation
 
-|------------------------|------------------|
 | Action                 | key              |
-|------------------------|------------------|
+| ---------------------- | ---------------- |
 | Code completion        | Ctrl + Enter     |
 | Start of line          | Home             |
 | End of line            | End              |
@@ -20,24 +19,20 @@
 | Compress               | Ctrl + -         |
 | Find usages            | Alt + F7         |
 | Find usages in file    | Ctrl + F7        |
-|------------------------|------------------|
 
 ### File navigation
 
-|-----------------------|----------------|
 | Action                | key            |
-|-----------------------|----------------|
+| --------------------- | -------------- |
 | Search everywhere     | Shift + Shift  |
 | Go to class           | Ctrl + n       |
 | Go to file            | Ctrl + Shift + n |
 | Next/Previous editor tab | Alt + ←/→   |
-|-----------------------|----------------|
 
 ### Debugger
 
-|-----------------------|----------------|
 | Action                | key            |
-|-----------------------|----------------|
+| --------------------- | -------------- |
 | Step into             | F7             |
 | Step over             | F8             |
 | Resume program        | F9             |
@@ -49,14 +44,12 @@
 | View breakpoints      | Ctrl + Shift + F8 |
 | Update                | Ctrl + F10     |
 | Toggle breakpoint     | Ctrl + F8      |
-|-----------------------|----------------|
+
 
 ### Refactoring
 
-|------------------------|------------------|
 | Action                 | key              |
-|------------------------|------------------|
+| ---------------------- | ---------------- |
 | Rename                 | Shift + F6       |
 | Safe delete            | Alt + Delete     |
 | Change signature       | Ctrl + F6        |
-|------------------------|------------------|
